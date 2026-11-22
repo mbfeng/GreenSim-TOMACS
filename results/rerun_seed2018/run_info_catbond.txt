@@ -1,0 +1,2 @@
+catbond: macro replications 10000, periods 100, replications 100, seed 2018
+workers 44, wall-clock of this call 8.2 min, MATLAB 25.1.0.2973910 (R2025a) Update 1

@@ -1,0 +1,9 @@
+# MATLAB, editor and OS files
+*.asv
+*.m~
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
+# per-macro parts of reruns (the summaries are kept)
+results/*/parts/

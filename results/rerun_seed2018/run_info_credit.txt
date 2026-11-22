@@ -1,0 +1,2 @@
+credit: macro replications 10000, periods 52, replications 1000, seed 2018
+workers 44, wall-clock of this call 10.0 min, MATLAB 25.1.0.2973910 (R2025a) Update 1

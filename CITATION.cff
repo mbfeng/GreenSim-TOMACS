@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below (preferred-citation)."
+title: "GreenSim-TOMACS: code for Green Simulation: Reusing the Output of Repeated Experiments"
+type: software
+authors:
+  - given-names: Mingbin
+    family-names: Feng
+  - given-names: Jeremy
+    family-names: Staum
+version: 1.0.0
+date-released: "2026-11-21"
+license: MIT
+repository-code: "https://github.com/mbfeng/GreenSim-TOMACS"
+preferred-citation:
+  type: article
+  title: "Green Simulation: Reusing the Output of Repeated Experiments"
+  authors:
+    - given-names: Mingbin
+      family-names: Feng
+    - given-names: Jeremy
+      family-names: Staum
+  journal: "ACM Transactions on Modeling and Computer Simulation"
+  volume: 27
+  issue: 4
+  number: "23"
+  start: 1
+  end: 28
+  year: 2017
+  doi: "10.1145/3129130"
