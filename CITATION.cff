@@ -7,9 +7,10 @@ authors:
     family-names: Feng
   - given-names: Jeremy
     family-names: Staum
-version: 1.0.0
-date-released: "2026-11-21"
+version: 1.0.1
+date-released: "2026-11-22"
 license: MIT
+doi: "10.5281/zenodo.24431305"
 repository-code: "https://github.com/mbfeng/GreenSim-TOMACS"
 preferred-citation:
   type: article

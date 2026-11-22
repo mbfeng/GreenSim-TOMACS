@@ -1,5 +1,7 @@
 # Green Simulation: Reusing the Output of Repeated Experiments — code
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24431305.svg)](https://doi.org/10.5281/zenodo.24431305)
+
 Code that reproduces the numerical examples (Section 6: Figures 2–5) of
 
 > Feng, M., & Staum, J. (2017). Green simulation: Reusing the output of repeated experiments.
